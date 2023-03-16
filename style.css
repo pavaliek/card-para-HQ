@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+body {
+    font-family: "roboto", sans-serif;
+    
+
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    box-sizing: border-box;
+
+}
+
+.card {
+    background: #fff;
+    box-shadow: 0px 2px 23px #26395347;
+    border-radius: 20px;
+    width: 300px;
+    margin: 0px 10px;
+    
+}
+
+.top-card {
+    padding: 20px;
+    padding-top: 0px;
+    box-sizing: border-box;
+}
+
+.tittle {
+    margin: 10px;
+    color: #2b3d59;
+}
+
+.second-text {
+    color: #828fa1;
+
+}
+
+.media-card1 {
+    background: url(./OMM1.jfif) center/cover;
+    height: 460px;
+    width: 100%;
+    margin: auto;
+}
+
+.media-card2 {
+    background: url(./OMM2.jfif) center/cover;
+    height: 460px;
+    width: 100%;
+}
+
+.media-card3 {
+    background: url(./OMM3.jfif) center/cover;
+    height: 460px;
+    width: 100%;
+}
+
+.media-card4 {
+    background: url(./OMM4.jfif) center/cover;
+    height: 460px;
+    width: 100%;
+}
+
+.media-card5 {
+    background: url(./OMG5.jfif) center/cover;
+    height: 460px;
+    width: 100%;
+}
+
+.bottom-card {
+    padding: 20px;
+}
+
+.bottom-text {
+    color: #445b73;
+    text-align: justify;
+}
+
+.actions {
+    background: none;
+    border: none;
+    color: rgb(4, 16, 131);
+}
