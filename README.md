@@ -2,8 +2,7 @@
 <div style="text-align: justify"> <h1>Coleção de histórias em quadrinhos</h1> HQ é o nome dado à arte de narrar histórias através de desenhos e textos em sequência, normalmente na horizontal.
 Essas histórias possuem os fundamentos básicos das narrativas: enredo, personagens, tempo, lugar e desfecho. No geral, apresentam linguagem verbal e não-verbal.
 Os artistas utilizam diversos recursos gráficos nesse gênero textual para trazer o leitor para "dentro" da história contada.
-Para comunicar as falas das personagens, por exemplo, são empregados balões com textos escritos. O formato desses balões também transmite intenções distintas.
-Por exemplo, balões com linhas contínuas sugerem uma fala em tom normal; os balões com linhas tracejadas indicam que a personagem está sussurrando; os balões em forma de nuvens apontam pensamentos.</div>
+Para comunicar as falas das personagens, por exemplo, são empregados balões com textos escritos.</div>
 <br>
 </br>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTMwNDNmZmI4YTUzNmNiZDFjYTI5N2JiZWE0MDFjMmY2OWUwNjM2YiZjdD1n/6hhqGnU2V3wIw/giphy.gif" min-width="200px" max-width="200px" width="200px" align="left" alt="Computador gabs">
